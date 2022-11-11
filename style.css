@@ -129,6 +129,8 @@ a{
 footer{
   grid-area: 2/1/3/4;
   text-align: center;
+  border: 3px solid var(--bleu);
+  box-shadow: 2px 2px 7px 1px var(--gris)
 }
 
 p{
