@@ -1,3 +1,23 @@
+:root {
+  --rouge: #b80d48;
+  --orange: #f29724;
+  --bleu: #2b6a6c;
+  --gris: #404040;
+}
+
 ul {
   list-style-type: none;
+}
+
+.corps {
+  display: inline-flex;
+  gap: 150px;
+}
+
+#photo{
+  width: 150Px;
+}
+
+body {
+  background-color: var(--orange);
 }
